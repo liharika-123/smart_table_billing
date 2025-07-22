@@ -14,4 +14,4 @@ c.execute('''
 
 conn.commit()
 conn.close()
-print("✅ restaurant.db created with 'orders' table")
+print(" restaurant.db created with 'orders' table")
